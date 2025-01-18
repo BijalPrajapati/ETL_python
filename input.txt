@@ -1,0 +1,9 @@
+This line is <br/> great
+This line is %link_start%great%link_end%.
+This line <x/> is <g>great
+Empty line
+    "Another line with spaces."
+
+    
+"This is a duplicate line."
+"This is a duplicate line."
